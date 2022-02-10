@@ -17,7 +17,6 @@ $luku1 = 1;
 $luku2 = 66;
 $luku3 = 22;
 echo "Luvuista $luku1, $luku2, $luku3, suurin on: ";
-// korjaus = suurempi kuin --> suurempi tai yhtäsuuri kuin
 if ($luku1 >= $luku2 && $luku1 >= $luku3) {echo $luku1;}
 else if ($luku2 >= $luku1 && $luku2 >= $luku3){echo $luku2;}
 else {echo $luku3;}
