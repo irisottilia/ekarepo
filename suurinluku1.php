@@ -7,7 +7,7 @@ body
 {
 font-family: Arial;
 margin: 60px 0 0 120px;
-color: red;
+color: navy;
 }
 </style>
 </head>
